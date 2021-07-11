@@ -15,13 +15,7 @@ system very flexible and convenient. To manage the entire activities manually on
   ![image](https://user-images.githubusercontent.com/86546222/125171076-e1efc880-e1cf-11eb-88fd-cc6dce47e356.png)
 
 
-
-
- # SDLC Activity Based Learning
-Build | Code Quality | Git Inspector |
-|---------|------------|-------------|
-[![C/C++ CI]
-https://www.code-inspector.com/project/24936/score/svg
+# SDLC Activity Based Learning
 
 ## Folder Structure
 Folder             | Description

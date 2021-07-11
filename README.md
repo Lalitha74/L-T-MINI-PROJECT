@@ -16,8 +16,9 @@ system very flexible and convenient. To manage the entire activities manually on
 
 
 # SDLC Activity Based Learning
-# ![Code Quality Score](https://www.code-inspector.com/project/24936/score/svg)
-# ![Code Grade](https://www.code-inspector.com/project/24936/status/svg)
+
+# ![Code Quality Score](https://www.code-inspector.com/project/24936/score/svg)  ![Code Grade](https://www.code-inspector.com/project/24936/status/svg)
+ 
 
 ## Folder Structure
 Folder             | Description

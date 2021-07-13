@@ -10,15 +10,17 @@ system very flexible and convenient. To manage the entire activities manually on
 
 ![image](https://user-images.githubusercontent.com/86546222/125171076-e1efc880-e1cf-11eb-88fd-cc6dce47e356.png)
 
-## SDLC Activity Based Learning
+# SDLC Activity Based Learning
 
-# [![C/C++ CI](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/c-build.yml/badge.svg)](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/c-build.yml)
+[![C/C++ CI](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/c-build.yml/badge.svg)](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/c-build.yml)
 
-[![CI](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/main2.yml/badge.svg)](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/main2.yml)
+[![C/C++ CI - Build Status](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/c.yml/badge.svg)](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/c.yml)
 
 [![Contribution Check - Git Inspector](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/Gitinspector.yml/badge.svg)](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/Gitinspector.yml)
 
 [![Static Code Quality- Cppcheck](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/main.yml/badge.svg)](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/main.yml)
+
+[![CI](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/main2.yml/badge.svg)](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/main2.yml)
 
 ![Code Quality Score](https://www.code-inspector.com/project/24936/score/svg)   
 

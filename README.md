@@ -16,6 +16,8 @@ system very flexible and convenient. To manage the entire activities manually on
 
 [![CI](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/main2.yml/badge.svg)](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/main2.yml)
 
+[![Contribution Check - Git Inspector](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/Gitinspector.yml/badge.svg)](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/Gitinspector.yml)
+
 ![Code Quality Score](https://www.code-inspector.com/project/24936/score/svg)   
 
 ![Code Grade](https://www.code-inspector.com/project/24936/status/svg)

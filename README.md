@@ -8,7 +8,8 @@ The hotel management system is a web based application that allows the hotel man
 system very flexible and convenient. To manage the entire activities manually on paper is very time taken process. This application provides flexibility to manage the entire system from a single online system.
 
 
-![image](https://user-images.githubusercontent.com/86546222/125171076-e1efc880-e1cf-11eb-88fd-cc6dce47e356.png)
+      
+ ![image](https://user-images.githubusercontent.com/86546222/125171076-e1efc880-e1cf-11eb-88fd-cc6dce47e356.png)
 
 # SDLC Activity Based Learning
 
@@ -19,12 +20,40 @@ Build | Code Quality | Build Status | Gitinspector
 
 
 
+
+
 CI(Continuous Integration)| Code Quality Score | Code Grade
 |---------|------------|-----------
 [![CI](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/main2.yml/badge.svg)](https://github.com/Lalitha74/L-T-MINI-PROJECT/actions/workflows/main2.yml)|![Code Quality Score](https://www.code-inspector.com/project/24936/score/svg)|![Code Grade](https://www.code-inspector.com/project/24936/status/svg)
 
  
-
+  
+  
+  
+  
+  
+  
+### Functional Requirements for Hotel Management System
+   1. Reservation/Booking:
+      Record reservations,
+      Record the customer’s first name,
+      Record the customer’s last name,
+      Record the number of occupants,
+      Record the room number.
+  2.  Food:
+      The system shall track all meals purchased in the hotel (restaurant and room service),
+      The system shall record payment and payment type for meals,
+      The system shall bill the current room if payment is not made at time of service,
+      The system shall accept reservations for the restaurant and room service.
+  3.  Management:
+      Display the hotel occupancy for a specified period of time,
+      Allow for the addition of information, regarding rooms, rates, menu items, prices, and user profiles,
+      Allow managers to assign user passwords.
+      
+      
+      
+      
+      
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
